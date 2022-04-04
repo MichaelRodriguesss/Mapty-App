@@ -1,7 +1,7 @@
 # Mapty-App
 ---
 
-## Tools 
+## Languages and Tools 
 
 ### HTML
 ### CSS
